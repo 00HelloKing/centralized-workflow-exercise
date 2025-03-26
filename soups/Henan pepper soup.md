@@ -1,4 +1,4 @@
-# Henan pepper Soup
+# Henan pepper Soup(From Jerry`s hometown)
 
 ## Introduction
 *A sour and spicy soup with intense pepper aroma, the ultimate comforting breakfast for Henan locals!*
@@ -65,3 +65,4 @@
 1. **Pepper is key**: Authentic spiciness comes from white pepper - don't skimp!
 2. **Balance sour & spicy**: Add vinegar last to prevent bitterness.
 3. **Vegetarian option**: Replace meat with mushrooms and veggie broth.
+
