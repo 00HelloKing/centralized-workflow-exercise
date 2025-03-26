@@ -1,4 +1,4 @@
-Tiramisu recipe
+Classic Tiramisu recipe
 
 Ingredients
 
